@@ -27,8 +27,7 @@ Sigue estos pasos para poner en marcha el proyecto.
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_DIRECTORIO>
+git clone https://github.com/Breiner-Barrios/Store_Analytics_Data_Pipeline_Practice_Project.git
 ```
 
 ### 2. Crear y Activar un Entorno Virtual
