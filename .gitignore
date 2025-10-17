@@ -1,0 +1,9 @@
+# Entornos virtuales
+venv/
+
+# Archivos de credenciales
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc

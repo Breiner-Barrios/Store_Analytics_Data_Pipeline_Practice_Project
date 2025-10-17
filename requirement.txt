@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.10
+pandas==2.2.2
+matplotlib==3.9.0
+SQLAlchemy==2.0.30
+python-dotenv==1.0.1
+Faker==25.9.1
