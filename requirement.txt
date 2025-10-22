@@ -4,3 +4,4 @@ matplotlib==3.9.0
 SQLAlchemy==2.0.30
 python-dotenv==1.0.1
 Faker==25.9.1
+Seaborn
